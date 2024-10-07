@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dbutumis
 - 👀 I’m interested in .IT..
 - 🌱 I’m currently learning .AZURE AZ 900 AZ 104 AZ 700 AZ 305 AZ 400..
-- 💞️ I’m looking to collaborate on ..AZURE AND AWC.
+- 💞️ I’m looking to collaborate on ..AZURE AND AWS
 - 📫 How to reach me . ON x @AbutuJacob_, at Gmail jacabu.ever@gmail.com..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
